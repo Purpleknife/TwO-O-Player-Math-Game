@@ -1,5 +1,5 @@
 # Initializes Player class
-# To keep track of Player's name and lives.
+# To keep track of the Player's name, id and lives.
 # To also keep track of the current player.
 
 class Player
