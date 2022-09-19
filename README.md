@@ -8,5 +8,5 @@ TwO-O-Player Math Game is a 2-Player math game where players take turns to answe
 
 ### Details
 - ``Player`` class: To keep track of the Player's name, id, lives and initiates the current_player method.
-- ``Question`` class: To keep track of the randoms numbers used in the questions.
+- ``Question`` class: To keep track of the random numbers used in the questions.
 - ``Game`` class: Where the game loop is played.
